@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Python real world projects<br>I'm currently learning Cloud Computing,Python<br>Ask me about Python
+AI & Data Science Student passionate about building intelligent software solutions. Currently working on real-world Python projects, developing Full-Stack applications integrated with AI, and expanding my knowledge in Cloud Computing. Always eager to learn new technologies and create impactful solutions.
 
 
 ## 🌐 Socials:
